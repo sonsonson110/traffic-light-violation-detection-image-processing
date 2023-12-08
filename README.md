@@ -9,6 +9,6 @@ Tải về cài đặt Tesseract cho Windows: https://github.com/UB-Mannheim/tes
 Set nơi lưu trữ sau cài đặt mặc định tại: *'C:/Program Files/Tesseract-OCR/tesseract.exe'*
 
 # Chạy thử chương trình
-1. Đảm bảo đường dẫn làm việc hiện tại ở */DIPFL23PRJG41*
+1. Đảm bảo đường dẫn làm việc hiện tại ở */traffic-light-violation-detection-image-processing*
 2. Đảm bảo đã cài đặt môi trường đầy đủ và không xuất hiện lỗi
 3. Chạy file tại đường dẫn *src/traffic-light-violation.py*
